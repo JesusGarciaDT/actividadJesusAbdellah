@@ -1,5 +1,5 @@
 package programajesus;
-
+//hola
 public class ProgramaAJC {
     
     public static void porcentaje(double numerobarça, double numeroalumnos){
