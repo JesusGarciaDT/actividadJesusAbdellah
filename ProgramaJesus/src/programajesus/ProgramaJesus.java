@@ -1,5 +1,5 @@
 package programajesus;
-
+//JCS
 public class ProgramaJesus {
     
     public static void porcentaje(double numerobarça, double numeroalumnos){
